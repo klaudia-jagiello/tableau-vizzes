@@ -1,4 +1,4 @@
-# tableau-vizzes 
+# Data Visualization in Tableau
 Note: Repository in progress...
 
 # Examples of Tableau vizzes:
