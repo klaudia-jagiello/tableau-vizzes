@@ -5,7 +5,7 @@ Note: Repository in progress...
 https://public.tableau.com/profile/klaudia5786#!/
 
 # List of vizzes:
-* [LOD calculation examples in one Story](https://public.tableau.com/profile/klaudia5786#!/vizhome/LODExamples_16134761222330/TableauStory)
+* [LOD calculation examples in one Tableau Story](https://public.tableau.com/profile/klaudia5786#!/vizhome/LODExamples_16134761222330/TableauStory)
 
 * [YtD analysis](https://public.tableau.com/profile/klaudia5786#!/vizhome/YTDDashboardforSUPERSTORE/Dashboard)
 
